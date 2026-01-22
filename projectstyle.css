@@ -1,0 +1,43 @@
+h2{
+    color: aliceblue;
+    background-color: red;
+}
+
+h3{
+    color: blueviolet;
+}
+
+p{
+    color: chocolate;
+
+}
+
+.firstdiv{
+    background-color: bisque;
+}
+
+div{
+    background-color: black;
+}
+
+span{
+    background-color: brown;
+}
+h1{
+    color: aqua;
+}
+
+h4{
+    color: white;
+}
+#myparagraph{
+    color: black;
+}
+
+#secondparagraph{
+    color: aliceblue;
+}
+.seconddiv{
+    background-color:purple ;
+
+}
